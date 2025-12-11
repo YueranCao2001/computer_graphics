@@ -24,8 +24,7 @@ The program showcases polygon rendering, parametric curves, geometric transforma
 - **Rainbow using glutSolidTorus()** (showing half via translation)
 - **Geometric transformations:** scaling, translation using `glPushMatrix()` & `glPopMatrix()`
 
-#### **🎮 Keyboard Controls**
-*(Report p.3–4)* :contentReference[oaicite:4]{index=4}  
+#### **🎮 Keyboard Controls** 
 - `q` – Quit program  
 - `f` – Toggle between fill mode and line mode  
 - `r` – Reset animations  
@@ -35,7 +34,6 @@ The program showcases polygon rendering, parametric curves, geometric transforma
 - `c` – Restore original size  
 
 #### **🖱 Mouse Interaction**
-*(Report p.5)* :contentReference[oaicite:5]{index=5}  
 - Left click: decelerate movement (if positive direction)  
 - Right click: accelerate movement  
 
@@ -57,8 +55,7 @@ Demonstrates modelling, lighting, projection, and interactive navigation.
   *(Report p.2–3)* :contentReference[oaicite:8]{index=8}  
 - **Animation**: UFO rotation/movement, boat navigation  
 
-#### **🎮 Keyboard Controls**
-*(Report p.3–4)* :contentReference[oaicite:9]{index=9}  
+#### **🎮 Keyboard Controls** 
 - `q` – Quit  
 - `b` / `l` / `c` – Scale trees bigger / smaller / reset  
 - `w`, `a`, `s`, `d`, `h` – Control boat movement  
@@ -69,8 +66,7 @@ Demonstrates modelling, lighting, projection, and interactive navigation.
 - `PgUp`, `PgDn`: zoom in / out  
   *(Report p.4)* :contentReference[oaicite:10]{index=10}  
 
-#### **🖱 Mouse Interaction**
-*(Report p.5)* :contentReference[oaicite:11]{index=11}  
+#### **🖱 Mouse Interaction** 
 - Left click: slow down if direction is positive, speed up if negative  
 - Right click: speed up if direction is positive, slow down if negative  
 
