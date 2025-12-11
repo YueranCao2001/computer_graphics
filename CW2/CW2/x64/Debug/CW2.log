@@ -1,0 +1,7 @@
+﻿  1930115_Cao_Yueran.cpp
+E:\CPT205\CW2\CW2\1930115_Cao_Yueran.cpp(118,33): warning C4244: “参数”: 从“const GLfloat”转换到“GLenum”，可能丢失数据
+E:\CPT205\CW2\CW2\1930115_Cao_Yueran.cpp(4717,26): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+E:\CPT205\CW2\CW2\1930115_Cao_Yueran.cpp(4717,19): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+E:\CPT205\CW2\CW2\1930115_Cao_Yueran.cpp(4783,28): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+E:\CPT205\CW2\CW2\1930115_Cao_Yueran.cpp(4783,21): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+  CW2.vcxproj -> E:\CPT205\CW2\x64\Debug\CW2.exe
