@@ -13,13 +13,11 @@ The program showcases polygon rendering, parametric curves, geometric transforma
 
 #### **✨ Key Features**
 - **Custom background using multicolored polygons**, with gradient achieved by color interpolation  
-  *(Report p.2)* :contentReference[oaicite:2]{index=2}  
 - **Text rendering** supporting Chinese & English characters  
 - **Billboard drawing using GL_FRONT / GL_BACK / GL_FILL / GL_LINE**  
 - **Circles & ellipses drawn via parametric equations**  
   - Circle: `x = r cos(360t), y = r sin(360t)`  
   - Ellipse: `x = a cos(360t), y = b sin(360t)`  
-  *(Report p.2–3)* :contentReference[oaicite:3]{index=3}
 - **Clouds, trees, balloons** constructed from ellipses + circles  
 - **Rainbow using glutSolidTorus()** (showing half via translation)
 - **Geometric transformations:** scaling, translation using `glPushMatrix()` & `glPopMatrix()`
@@ -44,15 +42,12 @@ A hierarchical 3D scene including buildings, ground, trees, UFO animation, boat 
 Demonstrates modelling, lighting, projection, and interactive navigation.
 
 #### **✨ Key Features**
-- **Hierarchical modelling**: ground, buildings, components built in structured layers  
-  *(Report p.2)* :contentReference[oaicite:6]{index=6}  
+- **Hierarchical modelling**: ground, buildings, components built in structured layers
 - **Geometry creation** using cubes, trapezoidal prisms, and glutSolidSphere  
 - **Transformations** for positioning, rotation, scaling of models  
 - **Orthographic projection** using `glOrtho()`  
-- **Lighting & materials**: ambient, diffuse, specular, shininess  
-  *(Report p.2)* :contentReference[oaicite:7]{index=7}  
-- **Texture mapping** on roofs, grass, carpets  
-  *(Report p.2–3)* :contentReference[oaicite:8]{index=8}  
+- **Lighting & materials**: ambient, diffuse, specular, shininess   
+- **Texture mapping** on roofs, grass, carpets 
 - **Animation**: UFO rotation/movement, boat navigation  
 
 #### **🎮 Keyboard Controls** 
@@ -64,7 +59,6 @@ Demonstrates modelling, lighting, projection, and interactive navigation.
 #### **⤴️ Special Keys**
 - Arrow keys ← ↑ ↓ →: rotate the entire model view  
 - `PgUp`, `PgDn`: zoom in / out  
-  *(Report p.4)* :contentReference[oaicite:10]{index=10}  
 
 #### **🖱 Mouse Interaction** 
 - Left click: slow down if direction is positive, speed up if negative  
